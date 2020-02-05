@@ -1,0 +1,15 @@
+/build
+*.iml
+.idea/workspace.xml
+.idea/
+*.log
+.gradle/
+*.apk
+*.ap_
+*.dex
+
+gen/
+out/
+bin/
+
+local.properties
